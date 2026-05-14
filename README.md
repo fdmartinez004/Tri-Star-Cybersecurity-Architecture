@@ -1,5 +1,7 @@
 <div style="border: 1px solid #ff4444; padding: 15px; border-radius: 5px;">
-Unauthorized copying, modification, or altering of all code, pages, and images contained in the channel are the sole property of Frank David Martinez, author, and is expressly prohibited for either commercial or personal use. © 2026 Frank David Martinez. All Rights Reserved.
+Unauthorized copying, modification, or altering of any and all of code, pages, and images contained herein the channel are the sole property of Frank David Martinez, author, and is expressly prohibited for either commercial or personal use. © 2026 Frank David Martinez. All Rights Reserved.
+
+  You may contact Frank D. Martinez (Architect) at (432) 256-5704 for any questions or a request for consultation.
 </div>
 
 ### 📂 Project Documentation
